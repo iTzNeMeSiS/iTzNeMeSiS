@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @iTzNeMeSiS
 - 👀 I’m interested in Computer Science, Cyber Security.
 - 🌱 I’m currently learning Computer Science & Cyber Security.
-- 💞️ I’m looking to collaborate on pretty much anything.
+- 💞️ I’m looking to collaborate on .
 - 📫 How to reach me ... Discord - ηҽϻєֆɨร#2660
 
 <!---
