@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Dre.;I'm+learning+web+development.;Check+out+some+of+my+projects.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Dre.;Check+out+some+of+my+projects.)](https://git.io/typing-svg)
 
     👋 Hi, I’m @iTzNeMeSiS
     👀 I’m interested in Web Development, Programming, Computer Science, Cyber Security.
