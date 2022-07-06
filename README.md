@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&color=3281E5&vCenter=true&lines=Hi+%F0%9F%91%8B%2C+I'm+Dre.; A+passionate+web+developer+from+USA.; Check+out+my+projects.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+Dre.;A+passionate+web+developer+from+USA.;Check+out+some+of+my+projects.)](https://git.io/typing-svg)
 
     - 🔭 I’m currently working on [Wiki](https://cs50.harvard.edu/web/2020/projects/1/wiki/)
 
