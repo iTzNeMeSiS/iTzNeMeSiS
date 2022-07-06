@@ -32,7 +32,5 @@
 
 
 
-
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itznemesis&" alt="itznemesis" /></p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=itznemesis&label=Profile%20views&color=0e75b6&style=flat" alt="itznemesis" /> </p>
