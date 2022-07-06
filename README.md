@@ -9,7 +9,7 @@
 <h2 class="tech-header">Technologies & Tools</h2>
 <table class="table">
     <tr>
-    <td class="td">
+    <td align="center" height="108" width="108">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
         width="48"
@@ -18,7 +18,7 @@
         />
         <br /><strong>HTML5</strong>
     </td>
-    <td class="td">
+    <td align="center" height="108" width="108">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
         width="48"
@@ -27,7 +27,7 @@
         />
         <br /><strong>CSS3</strong>
     </td>
-    <td class="td">
+    <td align="center" height="108" width="108">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="48"
@@ -36,7 +36,7 @@
         />
         <br /><strong>JavaScript</strong>
     </td>
-    <td class="td">
+    <td align="center" height="108" width="108">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
         width="48"
@@ -45,7 +45,7 @@
         />
         <br /><strong>React</strong>
     </td>
-    <td class="td">
+    <td align="center" height="108" width="108">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg"
         width="48"
@@ -54,7 +54,7 @@
         />
         <br /><strong>Bootstrap</strong>
     </td>
-    <td class="td">
+    <td align="center" height="108" width="108">
         <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
