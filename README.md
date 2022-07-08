@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://itznemesis.github.io/Portfolio/](https://itznemesis.github.io/Portfolio/)
 
-- 📫 How to reach me **codingdre@gmail.com?subject=Hi Dre**
+- 📫 How to reach me <a href="mailto:codingdre@gmail.com?subject=Hi Dre">codingdre@gmail.com</a>
 
 
 <h3 align="left">Connect with me:</h3>
