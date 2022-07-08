@@ -13,9 +13,6 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.youtube.com/channel/UCAP659xZaBGdmT06zVmvK4w" target="_blank"><img align="center" src="./youtube-circle.png" alt="ucap659xzabgdmt06zvmvk4w" height="40" width="40" /></a> <a href="[https://www.linkedin.com/in/andres-cao-41b642244/](https://github.com/iTzNeMeSiS/Portfolio/blob/7ae2e331ead7476e00ce38910de88536c19da0bd/images/linkedin.png)" target="_blank"><img src="./linkedin-circle.png" alt="" height="40" width="40"></a> 
-</p>
 <p align="left"> <a href="https://www.youtube.com/channel/UCAP659xZaBGdmT06zVmvK4w" target="_blank" rel="noreferrer"> <img src="./youtube-circle.png" alt="c" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/andres-cao-41b642244/" target="_blank" rel="noreferrer"> <img src="./linkedin-circle.png" alt="css3" width="40" height="40"/> </a></p><br>
 
 
