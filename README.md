@@ -13,7 +13,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://www.youtube.com/channel/UCAP659xZaBGdmT06zVmvK4w" target="_blank" rel="noreferrer"> <img src="./youtube-circle.png" alt="c" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/andres-cao-41b642244/" target="_blank" rel="noreferrer"> <img src="./linkedin-circle.png" alt="css3" width="40" height="40"/> </a></p><br>
+<p align="left"> <a href="https://www.youtube.com/channel/UCAP659xZaBGdmT06zVmvK4w" target="_blank" rel="noreferrer"> <img src="./youtube-circle.png" alt="c" width="40" height="40"/> </a> <a href="https://www.linkedin.com/in/andres-cao-41b642244/" target="_blank" rel="noreferrer"> <img src="./linkedin-circle.png" alt="css3" width="40" height="40"/> </a></p>
 
 
 <h3 align="left">Languages and Tools:</h3>
